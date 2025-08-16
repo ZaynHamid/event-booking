@@ -41,8 +41,8 @@ Installation
 1.  **Clone the repository:**
 
     ```
-    git clone <repository-url>
-    cd <repository-name>
+    git clone git@github.com:ZaynHamid/event-booking.git
+    cd event-booking
 
     ```
 
